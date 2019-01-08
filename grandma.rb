@@ -2,8 +2,8 @@
 
 if speak_to_grandma == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
-elseif speak_to_grandma = .uppercase
- puts "NO, NOT SINCE 1938!"
+#elseif speak_to_grandma = .uppercase
+ #puts "NO, NOT SINCE 1938!"
  else
  puts "HUH?! SPEAK UP, SONNY!"
 end
