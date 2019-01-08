@@ -2,9 +2,9 @@
 phrase = "I LOVE YOU GRANDMA!"
 
 if phrase == "I LOVE YOU GRANDMA!"
-  return = "I LOVE YOU TOO PUMPKIN!"
+  "I LOVE YOU TOO PUMPKIN!"
 else
-  return = "HUH?! SPEAK UP, SONNY!"
+  "HUH?! SPEAK UP, SONNY!"
 end
 
 # Whatever you say to grandma, she should respond with
