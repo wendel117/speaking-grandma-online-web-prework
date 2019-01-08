@@ -10,6 +10,7 @@ elseif phrase == phrase.downcase
 end
 end
 
+speak_to_grandma("HELLO THERE")
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
 # unless you shout it (type in all capitals).
