@@ -1,10 +1,12 @@
 # Write a speak_to_grandma method.
 phrase = "I LOVE YOU GRANDMA!"
 
-if phrase == "I LOVE YOU GRANDMA!"
+if speak_to_grandma == "I LOVE YOU GRANDMA!"
   "I LOVE YOU TOO PUMPKIN!"
-else
-  "HUH?! SPEAK UP, SONNY!"
+elseif speak_to_grandma = .uppercase
+ puts "NO, NOT SINCE 1938!"
+ else
+ puts "HUH?! SPEAK UP, SONNY!"
 end
 
 # Whatever you say to grandma, she should respond with
