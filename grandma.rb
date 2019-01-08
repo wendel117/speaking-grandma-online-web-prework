@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def phrase == "I LOVE YOU GRANDMA"
+phrase = "I LOVE YOU GRANDMA"
 
 if phrase == "i love you grandma!".uppercase
   print "I LOVE YOU TOO PUMPKIN!"
