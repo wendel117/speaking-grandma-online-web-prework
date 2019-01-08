@@ -3,8 +3,8 @@ phrase = "I LOVE YOU GRANDMA"
 
 if phrase == "i love you grandma!".uppercase
   print "I LOVE YOU TOO PUMPKIN!"
-#elseif phrase = phrase.uppercase
-#  print "NO, NOT SINCE 1938!"
+elseif phrase = phrase.uppercase
+  print "NO, NOT SINCE 1938!"
 else
   print "HUH?! SPEAK UP, SONNY!"
 end
