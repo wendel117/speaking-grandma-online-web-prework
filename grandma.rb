@@ -2,9 +2,9 @@
 phrase = "I LOVE YOU GRANDMA!"
 
 if phrase == "I LOVE YOU GRANDMA!"
-  print "I LOVE YOU TOO PUMPKIN!"
+  return = "I LOVE YOU TOO PUMPKIN!"
 else
-  print "HUH?! SPEAK UP, SONNY!"
+  return = "HUH?! SPEAK UP, SONNY!"
 end
 
 # Whatever you say to grandma, she should respond with
