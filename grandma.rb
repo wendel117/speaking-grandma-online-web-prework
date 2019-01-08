@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
 phrase = "I LOVE YOU GRANDMA"
 
-if phrase == "i love you grandma!".uppercase
+if phrase == "I LOVE YOU GRANDMA"
   print "I LOVE YOU TOO PUMPKIN!"
 elseif phrase = phrase.uppercase
   print "NO, NOT SINCE 1938!"
