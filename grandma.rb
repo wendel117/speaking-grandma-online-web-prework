@@ -1,7 +1,7 @@
 # Write a speak_to_grandma method.
-phrase = "I LOVE YOU GRANDMA"
+phrase = "I LOVE YOU GRANDMA!"
 
-if phrase == "I LOVE YOU GRANDMA"
+if phrase == "I LOVE YOU GRANDMA!"
   print "I LOVE YOU TOO PUMPKIN!"
 else
   print "HUH?! SPEAK UP, SONNY!"
